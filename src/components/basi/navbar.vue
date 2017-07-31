@@ -30,6 +30,7 @@
     text-align: center;
     flex :1;
     box-sizing: border-box;
+    font-size: 0.4376rem;
   }
 
 li.act{
